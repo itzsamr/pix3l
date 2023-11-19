@@ -10,4 +10,4 @@ streamlit_lottie==0.0.5
 torch==2.0.0
 torch==2.0.1
 torch==2.0.1+cu118
-~treamlit==1.26.0
+streamlit==1.26.0
