@@ -5,5 +5,5 @@ st_clickable_images==0.0.3
 streamlit==1.28.1
 streamlit_image_comparison==0.0.4
 streamlit_lottie==0.0.5
-torch==2.0.1+cu118
+torch==2.0.1
 
