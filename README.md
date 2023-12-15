@@ -14,7 +14,7 @@ PiX3L is an intuitive web application designed for enhancing the quality of digi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pi3xl.git
+    git clone https://github.com/itzsamr/pi3xl.git
     cd pix3l
     ```
 
