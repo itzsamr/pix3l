@@ -2,6 +2,10 @@
 
 PiX3L is an intuitive web application designed for enhancing the quality of digital images using advanced AI models. It combines elements from StyleGAN, WGAN, and CycleGAN to provide powerful image enhancement capabilities.
 
+![Architecture](https://esrgan.readthedocs.io/en/latest/_images/architecture.png)
+![Example](https://esrgan.readthedocs.io/en/latest/_images/0887sr.png)
+
+
 ## Features
 
 - **Image Enhancement:** Utilize a hybrid AI model to enhance the quality of images.
