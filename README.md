@@ -37,6 +37,6 @@ PiX3L is an intuitive web application designed for enhancing the quality of digi
 - Upload images and choose the AI model for enhancement.
 - Explore the different options available in the sidebar for image comparison and gallery viewing.
 
-## Contributing
+## Contribution
 
 Contributions are welcome! Feel free to open issues for suggestions or bugs. Pull requests are also encouraged.
