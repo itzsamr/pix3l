@@ -4,10 +4,7 @@ PiX3L is an intuitive web application designed for enhancing the quality of digi
 
 ## Demo
 
-<video width="640" height="480" controls>
-  <source src="PiX3L-Samar.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/itzsamr/pix3l/PIX3L-Samar.mp4
 
 ## Architecture
 
