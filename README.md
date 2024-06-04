@@ -2,11 +2,16 @@
 
 PiX3L is an intuitive web application designed for enhancing the quality of digital images using advanced AI models. It combines elements from StyleGAN, WGAN, and CycleGAN to provide powerful image enhancement capabilities.
 
+## Demo
 
+<video width="640" height="480" controls>
+  <source src="PiX3L-Samar.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Architecture
 
 ![Architecture](https://esrgan.readthedocs.io/en/latest/_images/architecture.png)
-
-
 
 ## Features
 
