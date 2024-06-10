@@ -23,7 +23,7 @@ https://github.com/itzsamr/pix3l/assets/137530730/36e000e3-9e87-41b9-95d1-e4be0c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/itzsamr/pi3xl.git
+   git clone https://github.com/itzsamr/pix3l.git
    cd pix3l
    ```
 
