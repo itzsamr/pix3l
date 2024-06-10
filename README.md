@@ -21,22 +21,22 @@ https://github.com/itzsamr/pix3l/assets/137530730/36e000e3-9e87-41b9-95d1-e4be0c
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/itzsamr/pi3xl.git
-    cd pix3l
-    ```
+   ```bash
+   git clone https://github.com/itzsamr/pi3xl.git
+   cd pix3l
+   ```
 
 2. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Run the application:
 
-    ```bash
-    streamlit run app.py
-    ```
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Usage
 
