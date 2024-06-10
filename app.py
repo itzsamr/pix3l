@@ -29,8 +29,8 @@ st.set_page_config(
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 # Define upload and download paths
-upload_path = "uploads/"
-download_path = "downloads/"
+upload_path = "static/uploads/"
+download_path = "static/downloads/"
 
 
 # Function to authenticate the user
