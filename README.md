@@ -8,7 +8,8 @@ https://github.com/itzsamr/pix3l/assets/137530730/36e000e3-9e87-41b9-95d1-e4be0c
 
 ## Architecture
 
-![Architecture](https://esrgan.readthedocs.io/en/latest/_images/architecture.png)
+![68747470733a2f2f65737267616e2e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f6172636869746563747572652e706e67-1180×371-](https://github.com/itzsamr/pix3l/assets/137530730/36cc0dae-5e40-4803-aa87-dfd4be1d089e)
+
 
 ## Features
 
