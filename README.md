@@ -12,10 +12,10 @@ https://github.com/itzsamr/pix3l/assets/137530730/36e000e3-9e87-41b9-95d1-e4be0c
 
 ## Features
 
-- **Image Enhancement:** Utilize a hybrid AI model to enhance the quality of images.
-- **Multiple AI Models:** Choose between ESRGAN and PSNR models for image super resolution.
-- **Comparison:** Compare the original and enhanced images side by side.
-- **Gallery:** Access an enhanced image gallery showcasing the output.
+- **HybridGAN:** 🛠 An ensemble of StyleGAN, WGAN, and CycleGAN designed for advanced image enhancement.
+- **HybridNet:** 🖼️ Integrating LIME, MSRNet, DRBL, and EG to excel in low-light image enhancement.
+- **Multipage Structure:** 📚 Navigate seamlessly with dedicated pages for home, upload & enhance, HybridNet, and gallery.
+- **Responsive & Interactive:** 🌐 Crafted using the Streamlit framework to ensure a user-friendly and interactive experience.
 
 ## Installation
 
